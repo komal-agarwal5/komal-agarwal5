@@ -14,5 +14,5 @@ Presently I know:<br>
 
 #### Connect with me:
 
-<a href="https://www.linkedin.com/in/komal-agarwal-95a3a026a" ><img src="images (3).png height=5px width=5px" ></a>
+<a href="https://www.linkedin.com/in/komal-agarwal-95a3a026a" >LinkedIn</a>
 
