@@ -1,7 +1,7 @@
 <h1 align="center">Hello folks👋</h1>
 
 # 💫 About Me:
-🔹2nd year CSE student at Techno Main Salt Lake<br>🔹Tech Team Member at IIC TMSL<br>🔹Tech Enthusiast<br>🔹Aspiring SDE
+🔹2nd year CSE student at Techno Main Salt Lake<br>🔹WebDev Member at GDSC TMSL<br>🔹Tech Team Member at IIC TMSL<br>🔹Tech Enthusiast<br>🔹Aspiring SDE
 
 # 🌐 Connect with me:
 <a href="http://www.linkedin.com/in/komal-agarwal-95a3a026a" alt="Komal Agarwal | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a>
