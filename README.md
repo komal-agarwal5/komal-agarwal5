@@ -1,8 +1,7 @@
-![Header](./header.png)
-
+<div align=center><img src="./header.png"/></div>
 
 <h1 align="center">Hello folks👋</h1>
-<img src="./about.jpg" alt="me" height=250px align="right">
+<img src="./about.jpg" alt="me" height=230px align="right">
 
 # 💫 About Me:
 🔹2nd year CSE student at Techno Main Salt Lake<br>🔹WebDev Member at GDSC TMSL<br>🔹Tech Team Member at IIC TMSL<br>🔹Tech Enthusiast<br>🔹Aspiring SDE
