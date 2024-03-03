@@ -4,7 +4,7 @@
 <!-- <img src="./about.jpg" alt="me" height=230px align="right"> -->
 
 # 💫 About Me:
-<img src="./about.jpg" alt="me" height=180px align="right">
+<img src="./about.jpg" alt="me" height=160px align="right">
 🔹2nd year CSE student at Techno Main Salt Lake<br>🔹WebDev Member at GDSC TMSL<br>🔹Tech Team Member at IIC TMSL<br>🔹Tech Enthusiast<br>🔹Aspiring SDE
 
 # 🌐 Connect with me:
