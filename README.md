@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <img src="./about.jpg" alt="me" height=160px align="right">
-🔹3rd year CSE student at Techno Main Salt Lake<br> 🔹Open Source Contributor<br>🔹WebDev Member at GDSC TMSL<br>🔹Tech Team Member at IIC TMSL<br>🔹Tech Enthusiast<br>🔹Aspiring SDE
+🔹4th year CSE student at Techno Main Salt Lake<br> 🔹Open Source Contributor<br>🔹Tech Enthusiast<br>🔹Aspiring SDE
 
 # 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/komal-agarwal-95a3a026a/" alt="Komal Agarwal | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
